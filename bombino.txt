@@ -1,0 +1,106 @@
+-OFFER SECTION extra.
+
+-"read all" button not working at home page. (pass)
+
+-get quick shopping rate animation not working manually.(pass)
+
+-number speaks not accurate count as original. (pass)
+
+- http://open-account.bombinoexp.com/ship-from-india-to-uk.php#courier-charges-section "custom clearance" hyper link not working. (pass).
+
+-http://open-account.bombinoexp.com/parcel.php 
+it should be "parcel services" with fill form, "our service" missing. need to change this module whole. (pass)
+
+- http://open-account.bombinoexp.com/contact-us.php 
+extra unwanted content of contact.(pass)
+
+- http://open-account.bombinoexp.com/terms-conditions.php 
+terms and conditions not working 404 not found sub-module.(pass)
+
+-http://open-account.bombinoexp.com/privacy-policy.php
+privacy-policy not working 404 not found.(pass)
+
+- http://open-account.bombinoexp.com/blog.php
+missing content.
+
+-http://open-account.bombinoexp.com/e-commerce.php
+hyper link not working, know more not working also for "Ecommerce Courier Services". (pass)
+
+-http://open-account.bombinoexp.com/cross-border-services.php
+hyper link "cross border courier services" not working, "know more button" also not working. (pass)
+
+-http://open-account.bombinoexp.com/custom-clearance-services.php
+hyper link "customs clearance services" not working, "know more" button not working also. (pass)
+
+-http://open-account.bombinoexp.com/warehousing.php
+hyper link "warehousing and inventory management", "know more button also not working. (pass)
+
+-http://open-account.bombinoexp.com/parcel.php
+hyper link "parcel delivery service" not working, "know more" button also not working. (pass)
+
+-http://open-account.bombinoexp.com/ocean-freight.php
+hyper link "ocean shipping company" not working, "know more" button not working as well. (pass)
+
+-"contact us" button not working.(pass)
+
+-"We Appreciate Customer's Feedback!" samantha bosco content not aligned properly, aditi m gaur content not aligned properly.(pass)
+
+-"blog" content missing, "read all" button not working.
+
+-"get quote" button not working. (pass)	
+
+-footer "need help?" "get in touch" button not working.	(pass)
+
+- "have a business enquiry?" "get quote" button not working. (pass)
+	
+-http://open-account.bombinoexp.com/contact-us.php
+side button extra content contacts. (pass)
+
+                     our services module
+-http://open-account.bombinoexp.com/custom-clearance-services.php	
+not working hyper link. (pass)
+
+-http://open-account.bombinoexp.com/parcel.php
+hyper link not working.(pass)
+
+-http://open-account.bombinoexp.com/warehousing.php
+hyper link not working.(pass)
+
+                        diwali offer
+
+-"Send Diwali Parcel at Upto 30% off" hyper links not highlighted and need css work on side content.( seasonal not important).
+
+-track now new module working properly as expected.
+
+need to fix these.
+
+
+
+
+errors 11/15/2023
+
+- http://open-account.bombinoexp.com/ship-from-india-to-usa.php  (+ -) stim button not showing properly. (not fixed)
+
+-http://open-account.bombinoexp.com/kyc.php
+"Fill the Form" sub-module "click here" hyper  button not showing pdf.(not fix)
+
+-"Insight into your industry" all hyperlink not working. (not fix)
+
+-http://open-account.bombinoexp.com/tracking.php
+side button content missing. (not fix)
+
+-http://open-account.bombinoexp.com/diwali-offers.php
+unwanted extra content, hyper link in "Find us near you" not highlighted. (not fix).
+
+- http://open-account.bombinoexp.com/en-in/contact-us
+privacy policy page "contact detail" sub module "contact us" hype link not working.(need to fix)
+
+- http://open-account.bombinoexp.com/custom-clearance-services
+in cross border all hyper link not working.(need to fix)
+
+- "Insight into your industry" all hyperlink not working. animated image also not working.(need to fix)
+
+- http://open-account.bombinoexp.com/tracking.php
+right side button content missing. less content.(need to fix).
+
+
